@@ -1,0 +1,35 @@
+ion-icon{
+    font-size: 50px;
+}
+
+ion-avatar {
+  margin-right: 15px;
+}
+
+ion-item {
+  --background: black;
+  color: white;
+  
+}
+ion-content{
+    --background: black;
+}
+.list-md{
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+ion-text {
+  font-size: 1.2em;
+  font-family: 'Cairo', sans-serif;
+}
+p {
+  font-family: 'Cairo', sans-serif;
+}
+
+ion-toolbar{
+    --background: black;
+}
+
+ion-toolbar ion-menu-button {
+  color: var(--ion-color-primary-contrast);
+}

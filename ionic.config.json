@@ -1,0 +1,7 @@
+{
+  "name": "gss",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

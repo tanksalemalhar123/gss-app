@@ -1,0 +1,95 @@
+#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+
+.title {
+  font-family: 'Georama', sans-serif;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+.header-text {
+  margin: 20px;
+  font-family: 'Georama', sans-serif;
+  color: black;
+  font-size: 1em;
+  text-align: center;
+}
+ion-content{
+  --ion-background-color:white;
+}
+ion-toolbar{
+  --background: black;
+  --color: white;
+}
+ion-card {
+  --background: #000000b5;
+  border-radius: 20px;
+}
+ion-fab-button{
+    float: right;
+    margin-right: 5px;
+}
+.logo {
+}
+.img-container{
+    border-bottom-left-radius: 65px;
+    border-bottom-right-radius: 65px;
+    background: black;
+}
+
+ion-menu {
+  --color: blue;
+}
+
+ion-toolbar ion-menu-button {
+  color: var(--ion-color-primary-contrast);
+}
+
+.services-cards{
+    background: black;
+}
+
+.para {
+  font-size: 1.2em;
+  text-align: center;
+  color: #bf360c;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 3px;
+  font-family: 'Georama', sans-serif;
+}
+
+.footer{
+    font-size: 1em;
+    text-align: center;
+}
+
+ion-footer {
+  --background: #D6D3D3;
+}
